@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 dfgdfgsdfgdfgfgdfg
 asdfasdadfasdfasdf
+=======
+afasfsdfadfgdfgsdfgdfgfgdfg
+>>>>>>> main
